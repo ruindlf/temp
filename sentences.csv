@@ -1,0 +1,104 @@
+﻿sentence,label
+The boy ran away from the dog,simple
+The dog barked,simple
+"I enjoy steamed vegetables, although my mother prefers them to be roasted.",complex
+You need to practise your guitar if you want to be in a successful band,complex
+I like football and I like rugby,compound
+"Paul can be loud, but he is funny sometimes",compound
+"There were lots of people queueing to get into the park, so I used the secret side entrance and met Jenny for our picnic on time",compound-complex
+"The beautiful sunflowers were beginning to wilt, but Jeremiah wasn't worried because he knew that they would bloom again next year",compound-complex
+"Since Aisling is allergic to wheat, she couldn't have any of the bread rolls, but she was more than happy to eat the delicious leek and potato soup on its own",compound-complex
+Rey waited for the train all night.,simple
+I looked for Joe and Mary at the airport.,simple
+"Those clouds promise rain, so we should hurry up and leave before we get caught in a flash flood.",compound-complex
+"After finding out that he bought a used shirt, he went to the store to return it.  ",complex
+"After the tornado hit, my house was completed destroyed.",complex
+"Since we had only gone a mile from camp, we decided to return before dark.",complex
+"John went to school today, but James remained at home.",compound
+Buying new footwear is my hobby. ,simple
+"I want to be a ballerina when I grow up, and my mom is proud of me.",compound-complex
+Barbara and Joanne whispered and giggled all night.,simple
+"Older television sets had tubes; the newest models, which take less space, are digital televisions.",compound-complex
+This summer our vacation should be both exciting and restful.,simple
+"I like tea, but Mary likes coffee.",compound
+We decided to go fishing and camp out at the lake.,simple
+The rain started as soon as they left home to attend a meeting.,complex
+Mom cooked dinner.,simple
+They are having pizza for dinner tonight,simple
+Nick opened the door.,simple
+He ate her lunch. ,simple
+I can speak English.,simple
+I am a student.,simple
+Shawn worked on the project and completed it.,simple
+Nick ate pasta and washed the dishes.,simple
+Mom cooked dinner and cleaned the kitchen,simple
+Winston and Davis are working on the project.,simple
+Nick and Zoe are having orange juice.,simple
+Mom and Dad cooked dinner.,simple
+"I am a doctor, and my friend is a teacher.",compound
+She tried to lift her bag. It was too heavy.,compound
+"She did not bring her lunch, so she ordered through the app.  ",compound
+"I want to go to work, but I am tired.",compound
+When i got home from school yesterday,complex
+"When I got home from school yesterday, I watched TV for an hour. ",complex
+"I love to travel, because I get to meet a lot of interesting people. ",complex
+"Although he was wealthy, still he was unhappy. ",complex
+"When we buy her birthday cake, we have to make sure it’s chocolate.",complex
+"I was crazy about pop music when I was younger, but I’m more into jazz now.",compound-complex
+"If it rains tomorrow, bring your umbrella, or you might catch a cold.",compound-complex
+"After the rain stopped, I went outside, and I picked flowers.",compound-complex
+"Spoken English tends to mainly use simple and compound sentences, but higher-level writing (e.g. academic and business communications) should use a variety of structures (i.e. simple, compound, and complex).",compound
+A complex sentence can be more efficient because it can contain several ideas in the same sentence.,complex
+"Also, using conjunctions such 'although' or 'because' helps the reader understand how ideas relate to each other, which makes your writing more cohesive.",complex
+Writing is most effective when it's clear.,complex
+"Still, writing well doesn't mean only using long and complicated sentences. ",simple
+"This can be achieved by using short, simple sentences, such as this one.",simple
+"In short, writing effectively and efficiently means using a variety of sentence structures.",simple
+She fell asleep because she was tired.,complex
+"Because she was tired, she fell asleep.",complex
+I'll call you if I go.,complex
+"If I go, I'll call you.",complex
+This is the store where I bought my hat.,complex
+"Vancouver, which is in western Canada, is a beautiful city.",complex
+"She took out her umbrella because it was raining, and then she walked home.",compound-complex
+"I don't like exercising, but I'll do it if I have to.",compound-complex
+"The man who was on the other side of the street waved, so I looked at him.",compound-complex
+"When I grow up, I want to be a ballerina, and my mom is proud of me.",compound-complex
+"I will get to watch television, but first, I have to clean up the dishes after we finish eating.",compound-complex
+"We won the game, but my uniform was muddy because it rained the entire time.",compound-complex
+"After our trip to the beach, school started back, and I was excited to see my friends.",compound-complex
+"Sarah cried when her cat got sick, but he soon got better.",compound-complex
+"The sun is shining through the clouds, so I think that we can go swimming.",compound-complex
+Karen baked cookies for dessert.,simple
+Jeff and John are brothers.,simple
+Where are you going?,simple
+"Jana wants cereal, but Paul wants pancakes.",compound
+"We went to the beach, and then we went to the mountains.",compound
+"Chris was hungry, so he made a sandwich.",compound
+"When it stops raining, we will play baseball.",complex
+You should brush your teeth before you go to bed.,complex
+"Because she is nice, Mrs. Thomas let us read books that we brought from home",complex
+"After we arrived at school, I went to gym, and Sara went to English.",compound-complex
+"I need a new coat, so mom said that she would buy one.",compound-complex
+"Will you bring chips for the party that we are having for Jan, and can you invite Marie?",compound-complex
+"Joe waited for the train, but the train was late.",compound
+"I looked for Mary and Samantha at the bus station, but they arrived at the station before noon and left on the bus before I arrived",compound
+"Mary and Samantha arrived at the bus station before noon, and they left on the bus before I arrived",compound
+"Mary and Samantha left on the bus before I arrived,so I did not see them at the bus station.",compound
+She put on her coat and went out,compound
+They tried very hard but they couldn’t win the match.,compound
+"She is innocent, so she has appealed to the court.",compound
+ She will come home or I will stay back at her place.,compound
+"Nalini was not satisfied with her birthday dress; however, she wore it.",compound
+"Nobody knew where to go, so we asked some random people for directions to the hills.",compound
+Let them know or you will have to suffer the consequences.,compound
+"Though I was not happy, I went to the reception for the sake of my friend.",complex
+"Even though my brother does not watch animation movies, he liked Kung Fu Panda.",complex
+"I invited Bruno to the concert, but he can only go if one of us gives him a ride.",compound-complex
+"Kaci has a bountiful vegetable garden, so she is always outside when it is sunny.",compound-complex
+"As soon as I heard the news, I called Nathan, and we made plans to celebrate.
+",compound-complex
+"You can come pick up the cake, or if you would prefer, we can deliver it to you.",compound-complex
+"I passed the test, but I would have gotten a perfect score if I had studied for the vocabulary section.",compound-complex
+"Yesterday, the lion went to the candy store, and the zebra went, too.",compound
+Mary went to the market yesterday and she gardens every morning.,compound
